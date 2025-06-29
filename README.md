@@ -2,7 +2,7 @@
 Mental AI ChatBot
 
 
-# AI Mental Health Companion 💙
+# AI Mental Health Companion
 
 This is a Streamlit-powered AI Mental Health Companion that provides 
 - 🗣️ Speech-to-text input
